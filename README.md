@@ -11,6 +11,15 @@ Demonstrates a self hosted WebAPI Controller inside a WIndows Console Applicatio
       I am using Fiddler for the composition of the HTTP Requests. 
       Go to View->Composer (F9)
 
+#Help Links
+
+	Microsoft ASP.NET Web API 2.2 Self Host 5.2.3
+	https://www.nuget.org/packages/Microsoft.AspNet.WebApi.SelfHost/
+	
+	Self-Host ASP.NET Web API
+	http://www.asp.net/web-api/overview/older-versions/self-host-a-web-api
+	
+	  
 #Requests for Products (ProductController)
 
 **Http GET request**
